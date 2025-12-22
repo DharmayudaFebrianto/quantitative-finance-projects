@@ -11,9 +11,9 @@ FIGURES_DIR = REPORTS_DIR / "figures"
 
 # Konfigurasi data
 DATA_CONFIG = {
-    "tickers": ["AAPL", "MSFT", "SPY", "BTC-USD"],  # bisa kamu ubah
-    "start": "2018-11-21",
-    "end": "2025-11-21",
+    "tickers": ["BTC-USD"],  # bisa kamu ubah
+    "start": "2025-10-01",
+    "end": "2025-12-21",
 }
 
 # Konfigurasi strategi default
